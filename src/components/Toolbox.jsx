@@ -402,7 +402,7 @@ class Toolbox extends Component {
                 stroke="#bbbfd3"
                 x="4.5"
                 y="8.5"
-                width="31"
+                width="41"
                 height="35"
               />
               <path
