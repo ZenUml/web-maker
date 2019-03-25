@@ -21,7 +21,7 @@ class Toolbox extends Component {
         >
           <title>New participant</title>
           <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-            <g id="Participant-Copy" stroke="#bbbfd3">
+            <g id="participant" stroke="#bbbfd3">
               <rect
                 id="Rectangle"
                 x="8.5"
@@ -52,7 +52,7 @@ class Toolbox extends Component {
         >
           <title>Async message</title>
           <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-            <g id="Message-Copy">
+            <g id="async-message">
               <path
                 d="M40.5,5 L40.5,47"
                 id="Line"
@@ -112,7 +112,7 @@ class Toolbox extends Component {
         >
           <title>Sync message</title>
           <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-            <g id="Execution-Copy" stroke="#bbbfd3">
+            <g id="sync-message" stroke="#bbbfd3">
               <path
                 d="M40.5,5 L40.5,47"
                 id="Line"
@@ -161,7 +161,7 @@ class Toolbox extends Component {
         >
           <title>Return value</title>
           <g
-            id="Execution-Copy-4"
+            id="return-value"
             stroke="none"
             stroke-width="1"
             fill="none"
@@ -270,7 +270,7 @@ class Toolbox extends Component {
         >
           <title>Self message</title>
           <g
-            id="Execution-Copy-2"
+            id="self-message"
             stroke="none"
             stroke-width="1"
             fill="none"
@@ -329,7 +329,7 @@ class Toolbox extends Component {
         >
           <title>New instance</title>
           <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-            <g id="Creation-Copy">
+            <g id="creation">
               <path
                 d="M40.5,32 L40.5,49"
                 id="Line"
@@ -396,7 +396,7 @@ class Toolbox extends Component {
         >
           <title>Conditional</title>
           <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-            <g id="Alt-Copy">
+            <g id="alt">
               <rect
                 id="Rectangle"
                 stroke="#bbbfd3"
@@ -450,7 +450,7 @@ class Toolbox extends Component {
         >
           <title>Loop</title>
           <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-            <g id="Loop-Copy">
+            <g id="loop">
               <rect
                 id="Rectangle"
                 stroke="#bbbfd3"
@@ -504,7 +504,7 @@ class Toolbox extends Component {
         >
           <title>Note</title>
           <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-            <g id="Note-Copy">
+            <g id="note">
               <path
                 d="M7.625,15 L2.375,30.5"
                 id="Line"
