@@ -8,7 +8,7 @@ class Toolbox extends Component {
 
   render() {
     return (
-      <div>
+      <div style="white-space: nowrap">
         <svg
           id="addNewParticipantButton"
           width="40px"
